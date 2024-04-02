@@ -1,1 +1,1 @@
-export const DB_NAME = "megaprojectbackend"
+export const DB_NAME = "megaprojectbackend"  
